@@ -73,8 +73,8 @@ material that is used to create the printed object.
 Playing with Axes:
 ![240916314-b00e9b31-6d78-4763-aa24-08bff9605819](https://github.com/charumathiramesh/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/120204455/c20d6867-2c2d-4dc0-a8e6-01661d5d86a4)
 
-### Name:
-### Register Number:
+### Name:ABDUL KALAAM K M
+### Register Number:23005114
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
