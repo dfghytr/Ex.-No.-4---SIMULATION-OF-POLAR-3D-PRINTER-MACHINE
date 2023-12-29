@@ -26,52 +26,9 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
-### Assembly of polar 3D printer:
+![WhatsApp Image 2023-11-21 at 19 41 29_5a590273](https://github.com/srishanth2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/150319470/155ccc97-b435-4f19-ad8d-0fa87ab0b301)
 
-### Y-Axis Frame:
-
-### The base of the printer that supports the rest of the components
-
-### Z-Axis Frame :
-This is the frame that holds the print head and moves it up and down along the vertical axis.
-
-### Smooth Rods :
-The smooth rods that provide smooth and accurate movement of the Z-axis frame.
-
-### Motors :
-provide the power to move the Z-axis frame and the print head.
-
-### Extruder Supporter :
-The support structure that holds the extruder assembly.
-
-### Threaded Rod :
-Threaded rod that provides the power to move the Z-axis frame up and down.
-
-### Y-Axis Frame :
-The frame that moves the print head in the horizontal plane.
-
-### Motor with Gear :
-provides the power to move the Y-axis frame
-
-### Motor-with-Pulley :
-provides the power to move the Z-axis frame.
-
-### Gears :
-Transfer power from the stepper motors to the threaded rod and the smooth rods.
-
-### Plate :
-plate where the printed object is created.
-
-### Extruder :
-melts and extrudes the filament to create the printed object.
-
-### Filament :
-material that is used to create the printed object.
-
-![240916230-8cea6246-a553-4ea4-9266-ed9a35b6fb54](https://github.com/charumathiramesh/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/120204455/0560f210-24c7-4392-bb42-744f53da2764)
-
-### Playing with Axes:
-![240916314-b00e9b31-6d78-4763-aa24-08bff9605819](https://github.com/charumathiramesh/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/120204455/c20d6867-2c2d-4dc0-a8e6-01661d5d86a4)
+![WhatsApp Image 2023-11-21 at 19 41 28_662108d2](https://github.com/srishanth2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/150319470/26c41736-1d6d-4c17-8ce2-0309542e82cc)
 
 ### Name:ABDUL KALAAM K M
 ### Register Number:23005114
